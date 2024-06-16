@@ -32,5 +32,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Symmetric-Tree-LeetCode/assets/171427226/5fe781e6-2430-4959-9e27-bc66d9b14413)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(n).</br>Space complexity: O(n).
 </div>

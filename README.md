@@ -12,7 +12,7 @@ Example 1:
 
 </div>
 
->Input: root = [1,2,2,3,4,4,3]
+>Input: root = [1,2,2,3,4,4,3]</br>
 >Output: true
 
 Example 2:
@@ -23,7 +23,7 @@ Example 2:
 
 </div>
 
->Input: root = [1,2,2,null,3,null,3]
+>Input: root = [1,2,2,null,3,null,3]</br>
 >Output: false
 
 My Solution Analysis:
